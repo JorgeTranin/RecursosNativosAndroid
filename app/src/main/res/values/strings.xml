@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">RecursosNativosAndroid</string>
     <string name="set_event">set event</string>
+    <string name="contact_image_description">imagem de um contato</string>
+    <string name="contact_name_placeholder">nome contato</string>
+    <string name="contact_phone_placeholder">phone number contato</string>
 </resources>
