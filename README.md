@@ -6,7 +6,11 @@
   - Leitura de contatos
   - Acesso a galeria de fotos
   - câmera
-  - localização 
+    - localização 
+      - Mostrar a posição atual do usuário
+      - Mostrar e customizar marks no mapa
+      - Buscar endereços por coordenadas Geográficas
+      - Update de Localização do usuário
   - relógio
 
 ## ScreenShots
