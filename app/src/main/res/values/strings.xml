@@ -7,4 +7,5 @@
     <string name="carregar_foto">Carregar Foto</string>
     <string name="imagem_a_ser_selecionada">Imagem a ser selecionada</string>
     <string name="abrir_camera">Abrir camera</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
