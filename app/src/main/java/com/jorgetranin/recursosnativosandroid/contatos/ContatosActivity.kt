@@ -24,6 +24,8 @@ class ContatosActivity : AppCompatActivity() {
                 PackageManager.PERMISSION_GRANTED){
             ActivityCompat.requestPermissions(this, arrayOf(android.Manifest.permission.READ_CONTACTS),
             REQUEST_CONTACT)
+        }else{
+
         }
 
 

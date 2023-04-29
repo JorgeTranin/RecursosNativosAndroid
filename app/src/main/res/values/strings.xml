@@ -4,4 +4,6 @@
     <string name="contact_image_description">imagem de um contato</string>
     <string name="contact_name_placeholder">nome contato</string>
     <string name="contact_phone_placeholder">phone number contato</string>
+    <string name="carregar_foto">Carregar Foto</string>
+    <string name="imagem_a_ser_selecionada">Imagem a ser selecionada</string>
 </resources>
